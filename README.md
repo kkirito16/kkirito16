@@ -25,7 +25,7 @@
 | Company | Department |
 |:--------|:------------|
 | **Tencent** | CSIG · Input Method · Platform Tech Center · C-end Frontend |
-| **Tencent** | CDG |
+| **Tencent** | CDG · Wealth Management · R&D Center · AI Application Development |
 | **ByteDance** | Interactive Entertainment R&D · Douyin · Image/Text · Full-stack |
 | **Xiaomi** | Internet Business · International Internet · R&D Platform · Web Frontend |
 | **Insta360** | Application Software Center · Product Development · Web Frontend |
