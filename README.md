@@ -22,16 +22,13 @@
 
 ## 💼 Internship Experience
 
-<div align="center">
-
-| Company | Division |
-|:--------|:---------|
-| **Tencent** | CSIG · **CDG** |
-| **ByteDance** | — |
-| **Xiaomi** | — |
-| **Insta360** | — |
-
-</div>
+| Company | Department |
+|:--------|:------------|
+| **Tencent** | CSIG · Input Method · Platform Tech Center · C-end Frontend |
+| **Tencent** | CDG |
+| **ByteDance** | Interactive Entertainment R&D · Douyin · Image/Text · Full-stack |
+| **Xiaomi** | Internet Business · International Internet · R&D Platform · Web Frontend |
+| **Insta360** | Application Software Center · Product Development · Web Frontend |
 
 ---
 
@@ -50,7 +47,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=000" alt="Tauri"/>
-  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WASM"/>
 </p>
 
 `React` · `Vue` · `Next.js` · `Node.js` · `SSE` · `WebAssembly` · `Tauri`
@@ -67,20 +63,15 @@ AI × Web  ·  Agents  ·  Streaming Chat  ·  RAG  ·  Performance Optimization
 
 ## 🚀 Highlight
 
-<table>
-<tr>
-<td width="60">
-
-🛠️
-
-</td>
-<td>
-
 Built an **AI code editor from scratch** with **Tauri** — desktop-native UX, web tech stack, and LLM integration end-to-end.
 
-</td>
-</tr>
-</table>
+---
+
+## 📝 Blog
+
+[![Blog](https://img.shields.io/badge/Blog-仰望星空时-58A6FF?style=for-the-badge)](https://ljqkkirito16.top/)
+
+Frontend notes, learning logs & side projects — [ljqkkirito16.top](https://ljqkkirito16.top/)
 
 ---
 
@@ -93,6 +84,7 @@ Built an **AI code editor from scratch** with **Tauri** — desktop-native UX, w
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-kkirito16-181717?style=for-the-badge&logo=github)](https://github.com/kkirito16)
+[![Blog](https://img.shields.io/badge/🌟_Blog-ljqkkirito16.top-58A6FF?style=for-the-badge)](https://ljqkkirito16.top/)
 
 </div>
 
