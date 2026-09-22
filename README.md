@@ -13,10 +13,24 @@
 
 ## 🎓 Education
 
-| | |
-|:---:|:---|
-| 🏫 | **Bachelor** — University of Electronic Science and Technology of China (UESTC) |
-| 🎓 | **Master's** — Computer Science, The University of Hong Kong (HKU) |
+<table>
+  <tr>
+    <td align="center">🏫</td>
+    <td><strong>Bachelor</strong> — University of Electronic Science and Technology of China (UESTC)</td>
+  </tr>
+  <tr>
+    <td align="center">🎓</td>
+    <td><strong>Master's</strong> — Computer Science, The University of Hong Kong (HKU)</td>
+  </tr>
+</table>
+
+---
+
+## 🏢 Work Experience
+
+| Company | Department |
+|:--------|:------------|
+| **Tencent** | CDG · AI Application Development · *Current* |
 
 ---
 
